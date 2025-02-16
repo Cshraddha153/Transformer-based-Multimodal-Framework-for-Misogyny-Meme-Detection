@@ -5,7 +5,7 @@ This research focuses on detecting misogynistic content in Tamil and Malayalam m
 
 # Methodology
 1. Image Feature Extraction: ViT (Vision Transformer)
-2. Text Feature Extraction: MuRIL
+2. Text Feature Extraction: XLM-Roberta
 3. Feature Fusion: Combined visual and textual features for classification
    
 # Models Used:
