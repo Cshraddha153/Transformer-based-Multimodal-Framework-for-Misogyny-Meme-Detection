@@ -12,5 +12,12 @@ This research focuses on detecting misogynistic content in Tamil and Malayalam m
 1. Machine Learning Models: KNN, SVM, Random Forest (RF), Naïve Bayes (NB)
 2. Deep Learning Models: LSTM, GRU, Custom Multimodal Model (MMC)
 
+# Rank List
+### Team Name - MNLP
+1. Tamil Rank list of Misogyny detection - [Misogyny shared task - Tamil Rank list.pdf](https://github.com/user-attachments/files/19090596/Misogyny.shared.task.-.Tamil.Rank.list.pdf)
+
+2. Malayalam Rank list of Misogyny detection - [Misogyny shared task - Malayalam Rank list.pdf](https://github.com/user-attachments/files/19090593/Misogyny.shared.task.-.Malayalam.Rank.list.pdf)
+
+   
 # Research Paper
 Under Review
