@@ -20,4 +20,11 @@ This research focuses on detecting misogynistic content in Tamil and Malayalam m
 
    
 # Research Paper
-Under Review
+@inproceedings{chauhan2025MNLP,
+  title={MNLP@DravidianLangTech 2025: Transformer-based Multimodal Framework for Misogyny Meme Detection},
+  author={Chauhan, Shraddha and Kumar, Abhinav},
+  booktitle={Proceedings of Fifth Workshop on Speech and Language Technologies for Dravidian Languages (NAACL 2025)},
+  pages={},
+  year={2025}
+}
+
