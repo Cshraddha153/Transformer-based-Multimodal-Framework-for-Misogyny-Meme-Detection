@@ -48,15 +48,30 @@ for classification. Both machine learning (ML) and deep learning (DL) models wer
 2. Malayalam Rank list of Misogyny detection - [Malayalam Rank list](https://github.com/user-attachments/files/19090593/Misogyny.shared.task.-.Malayalam.Rank.list.pdf)
 
    
-# Research Paper
+# Citation
 
-**Paper Pdf :-** [Multimodal_Misogyny_Meme_Detection](https://github.com/user-attachments/files/19719420/Multimodal_Misogyny_Meme_Detection_Paper.1.pdf)
-
-@inproceedings{chauhan2025MNLP,
-  title={MNLP@DravidianLangTech 2025: Transformer-based Multimodal Framework for Misogyny Meme Detection},
-  author={Chauhan, Shraddha and Kumar, Abhinav},
-  booktitle={Proceedings of Fifth Workshop on Speech and Language Technologies for Dravidian Languages (NAACL 2025)},
-  pages={},
-  year={2025}
+@inproceedings{chauhan-kumar-2025-mnlp-dravidianlangtech,
+    title = "{MNLP}@{D}ravidian{L}ang{T}ech 2025: Transformer-based Multimodal Framework for Misogyny Meme Detection",
+    author = "Chauhan, Shraddha  and
+      Kumar, Abhinav",
+    editor = "Chakravarthi, Bharathi Raja  and
+      Priyadharshini, Ruba  and
+      Madasamy, Anand Kumar  and
+      Thavareesan, Sajeetha  and
+      Sherly, Elizabeth  and
+      Rajiakodi, Saranya  and
+      Palani, Balasubramanian  and
+      Subramanian, Malliga  and
+      Cn, Subalalitha  and
+      Chinnappa, Dhivya",
+    booktitle = "Proceedings of the Fifth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages",
+    month = may,
+    year = "2025",
+    address = "Acoma, The Albuquerque Convention Center, Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.dravidianlangtech-1.43/",
+    pages = "248--253",
+    ISBN = "979-8-89176-228-2",
+    abstract = "A meme is essentially an artefact of content- usually an amalgamation of a picture, text, or video-content that spreads like wildfire on the internet, usually shared for amusement, cultural expression, or commentary. They are very much similar to an inside joke or a cultural snapshot that reflects shared ideas, emotions, or social commentary, remodulated and reformed by communities. Some of them carry harmful content, such as misogyny. A misogynistic meme is social commentary that espouses negative stereotypes, prejudice, or hatred against women. The detection and addressing of such content will help make the online space inclusive and respectful. The work focuses on developing a multimodal approach for categorizing misogynistic and non-misogynistic memes through the use of pretrained XLM-RoBERTa to draw text features and Vision Transformer to draw image features. The combination of both text and images features are processed into a machine learning and deep learning model which have attained F1-scores 0.77 and 0.88, respectively Tamil and Malayalam for misogynist Meme Dataset."
 }
 
